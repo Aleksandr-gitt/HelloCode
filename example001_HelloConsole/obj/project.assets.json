@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Александр\\Desktop\\Examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
-      "projectName": "example001_HelloConsole",
-      "projectPath": "C:\\Users\\Александр\\Desktop\\Examples\\example001_HelloConsole\\example001_HelloConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Александр\\Desktop\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectName": "Example001_HelloConsole",
+      "projectPath": "C:\\Users\\Александр\\Desktop\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Александр\\Desktop\\Examples\\example001_HelloConsole\\obj\\",
+      "outputPath": "C:\\Users\\Александр\\Desktop\\Examples\\Example001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
